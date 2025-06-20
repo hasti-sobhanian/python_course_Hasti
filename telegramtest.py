@@ -7,6 +7,7 @@ from time import sleep
 
 
 whatsapp_password = "ahdydjhfb23"
+whatsapp_token = "1ddf324123"
 BOT_TOKEN = os.getenv("telegram_token")
 if BOT_TOKEN is None:
     raise ValueError("BOT_TOKEN is not set. Please check your .env file.")
