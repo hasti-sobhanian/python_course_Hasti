@@ -1,0 +1,2 @@
+python3 -m venv env         <---- <env> you can change the name 
+source env/bin/activate
